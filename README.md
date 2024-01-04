@@ -1,4 +1,4 @@
 # lucky-demo
 This is my first Git Repository
 <br>
-Author-Laxman Kumar Mahanta 
+Author-Laxman Kumar Mahanta (lucky)
